@@ -1,9 +1,5 @@
 package learn;
 
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-
 /**
  * 删除排序链表中的重复元素
  */
